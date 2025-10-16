@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "rbtree.h": "c",
-        "stdbool.h": "c"
+        "stdbool.h": "c",
+        "assert.h": "c",
+        "stdlib.h": "c"
     }
 }
